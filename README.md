@@ -1,23 +1,23 @@
 ## 💻 Skills
 
-<table>
+<table style="border-collapse: separate; border-spacing: 15px;">
   <tr>
-    <td valign="top" width="50%">
-      <strong>Languages</strong><br>
+    <td align="center" width="50%" style="padding: 20px; background: #1a1b26; border-radius: 10px;">
+      <h3 style="color: #c0caf5;">Languages</h3>
       <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp" />
     </td>
-    <td valign="top" width="50%">
-      <strong>Backend & Runtime</strong><br>
+    <td align="center" width="50%" style="padding: 20px; background: #1a1b26; border-radius: 10px;">
+      <h3 style="color: #c0caf5;">Backend & Runtime</h3>
       <img src="https://skillicons.dev/icons?i=nodejs" />
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <strong>DevOps & System</strong><br>
+    <td align="center" width="50%" style="padding: 20px; background: #1a1b26; border-radius: 10px;">
+      <h3 style="color: #c0caf5;">DevOps & System</h3>
       <img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare" />
     </td>
-    <td valign="top" width="50%">
-      <strong>Development Tools</strong><br>
+    <td align="center" width="50%" style="padding: 20px; background: #1a1b26; border-radius: 10px;">
+      <h3 style="color: #c0caf5;">Development Tools</h3>
       <img src="https://skillicons.dev/icons?i=vscode,figma" />
     </td>
   </tr>
