@@ -4,27 +4,21 @@
   <tr>
     <!-- 左列 -->
     <td align="left" width="50%" valign="top">
+<h3>Languages</h3>
+<p><img alt="Languages" src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp" /></p>
 
-### Languages
-
-![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,cpp)
-
-### Backend & Runtime
-
-![Backend](https://skillicons.dev/icons?i=nodejs)
-
+<h3>Backend & Runtime</h3>
+<p><img alt="Backend" src="https://skillicons.dev/icons?i=nodejs" /></p>
     </td>
+
     <!-- 右列 -->
     <td align="left" width="50%" valign="top">
 
-### DevOps & System
+<h3>DevOps & System</h3>
+<p><img alt="DevOps" src="https://skillicons.dev/icons?i=git,github,linux,cloudflare" /></p>
 
-![DevOps](https://skillicons.dev/icons?i=git,github,linux,cloudflare)
-
-### Development Tools
-
-![Tools](https://skillicons.dev/icons?i=vscode,figma)
-
+<h3>Development Tools</h3>
+<p><img alt="Tools" src="https://skillicons.dev/icons?i=vscode,figma" /></p>
     </td>
 
   </tr>
