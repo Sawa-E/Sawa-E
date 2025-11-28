@@ -3,7 +3,7 @@
 <table style="border-collapse: separate; border-spacing: 15px;">
   <tr>
     <td align="center" width="50%" style="padding: 20px; background: #1a1b26; border-radius: 10px;">
-      <h3 style="color: #c0caf5;">Languages</h3>
+      <h3 style="color: #1a1b26;">Languages</h3>
       <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp" />
     </td>
     <td align="center" width="50%" style="padding: 20px; background: #1a1b26; border-radius: 10px;">
