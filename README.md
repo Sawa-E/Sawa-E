@@ -2,25 +2,24 @@
 
 <table>
   <tr>
-    <!-- 左列 -->
-    <td align="left" width="50%" valign="top">
-<h3>Languages</h3>
-<p><img alt="Languages" src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp" /></p>
-
-<h3>Backend & Runtime</h3>
-<p><img alt="Backend" src="https://skillicons.dev/icons?i=nodejs" /></p>
+    <td valign="top" width="50%">
+      <strong>Languages</strong><br>
+      <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp" />
     </td>
-
-    <!-- 右列 -->
-    <td align="left" width="50%" valign="top">
-
-<h3>DevOps & System</h3>
-<p><img alt="DevOps" src="https://skillicons.dev/icons?i=git,github,linux,cloudflare" /></p>
-
-<h3>Development Tools</h3>
-<p><img alt="Tools" src="https://skillicons.dev/icons?i=vscode,figma" /></p>
+    <td valign="top" width="50%">
+      <strong>Backend & Runtime</strong><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" />
     </td>
-
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>DevOps & System</strong><br>
+      <img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Development Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=vscode,figma" />
+    </td>
   </tr>
 </table>
 
